@@ -4,4 +4,7 @@
 
 layout: home
 author_profile: true
+sidebar:
+  nav: "docs"
 ---
+This is the index.markdown file
